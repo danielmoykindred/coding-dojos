@@ -35,6 +35,15 @@ Use TDD to build a program that finds all solutions.
 +---+---+---+---+---+---+---+---+
 |   |   | 1 |   |   |   |   |   |
 +---+---+---+---+---+---+---+---+
+
+00000100
+00010000
+00000010
+10000000
+00000001
+01000000
+00001000
+00100000
 ```
 
 [Coding Dojo Link](https://codingdojo.org/kata/eight-queens/)
